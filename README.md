@@ -5,7 +5,7 @@ streamlit run app.py
 
 
 ## To Run this:
-#Update the .env file to:
+# Update the .env file to:
 GOOGLE_API_KEY=API-KEY
 GOOGLE_MODEL='gemini-2.5-flash'
 GOOGLE_EMBEDDING_MODEL='models/embedding-001'#not used in this project
