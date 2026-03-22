@@ -1,0 +1,20 @@
+{
+  "session_id": "96f4f056-fe49-4a48-ab3a-5d2db29d6d67",
+  "created_at": "2026-03-23T00:10:52.484108",
+  "file_paths": [
+    "uploads/96f4f056-fe49-4a48-ab3a-5d2db29d6d67_Culture-Food-and-Temples.pdf"
+  ],
+  "history": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-03-23T00:11:14.932334"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I help you today based on the provided medical documents?",
+      "timestamp": "2026-03-23T00:11:14.940326"
+    }
+  ],
+  "metadata": {}
+}
