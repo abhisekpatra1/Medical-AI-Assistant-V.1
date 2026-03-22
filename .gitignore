@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.log
+
+# --- Virtual Environments ---
+# This blocks the current .venv and any other versions you created
+.venv/
+.venv311/
+venv/
+env/
+ENV/
+
+# --- Environment Variables (Security) ---
+# NEVER upload your API keys to GitHub
+.env
+
+# --- Project Specific Data (RAG/Database) ---
+# These folders get very large and will crash your Git push
+data/
+chroma/
+*.sqlite3
+storage/
+
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS Specific ---
+Thumbs.db
+desktop.ini
